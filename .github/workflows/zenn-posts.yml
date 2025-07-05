@@ -16,5 +16,4 @@ jobs:
           max_post_count: 5
           readme_path: './README.md'
           comment_tag_name: "ZENN-POSTS"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }} # Use PAT for push permissions
+          token: ${{ secrets.GH_PAT }} # Use PAT for push permissions
