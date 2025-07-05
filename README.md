@@ -43,6 +43,7 @@ I'm an AI engineer and researcher passionate about the intersection of **AI, spa
 
 ## 📝 Latest Articles
 
+<div align="center" style="background-color: #1a1b26; padding: 20px; border-radius: 10px; border: 1px solid #c792ea;">
 <!-- ZENN-POSTS:START -->
 - [AIエージェント開発Night 完全レポート｜日本のAIエージェント開発最前線](https://zenn.dev/growthlink1112/articles/0fdc67f47f3db8)
 - [WSLで動かすClaude Codeの世界](https://zenn.dev/arterect/articles/31b08fba9ff818)
@@ -50,6 +51,7 @@ I'm an AI engineer and researcher passionate about the intersection of **AI, spa
 - [ChatGPT-4.5で試してみた！MCPとA2A、そしてAIエージェントの未来](https://zenn.dev/growthlink1112/articles/99469af60be1ed)
 - [DifyでノーコードAIアプリ開発をはじめよう！](https://zenn.dev/haya21_8/articles/482ebbfe54c647)
 <!-- ZENN-POSTS:END -->
+</div>
 
 ## 🚀 My Vision & Projects
 
