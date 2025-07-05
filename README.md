@@ -1,125 +1,122 @@
-<!-- 👋 Welcome Banner -->
-<h1 align="center">🌌 HAYATE ESAKI 🌌</h1>
-<p align="center">
-    <b>AI Engineer | Blockchain Researcher | PoAI Innovator</b>
-</p>
-
-<!-- Profile Banner -->
-<p align="center">
-    <img src="assets/profile-banner-arterect.png" alt="HAYATE ESAKI Profile Banner" width="80%">
-</p>
-
----
-
-<br>
-
-## 🚀 **Pioneering AI-Powered Blockchain – PoAI (Proof of Artificial Intelligence)**
-
-🌍 **Redefining decentralized ecosystems through AI-driven governance**<br>
-🔬 **PoAI – The next-gen consensus mechanism leveraging AI & blockchain synergy**<br>
-🛡️ **Zero-Knowledge Proofs (ZKP) + Quantum-Resistant Cryptography for ultimate security**<br>
-🎮 **Transforming gaming, space exploration & social infrastructure with AI & Web4.0**<br>
-
-<br>
-
-🔗 **📜 Whitepaper & Research:** [Arkxion PoAI Whitepaper](https://zenodo.org/records/14758384)<br>
-🌐 **Project Website:** [Arkxion](https://arkxion.org)<br>
-💻 **Development Repo:** [GitHub (Arkxion)](https://github.com/arkxion)<br>
-
-<br>
-
-📄 **ORCID:** [0009-0007-0852-5505](https://orcid.org/0009-0007-0852-5505)<br>
-📸 **Instagram:** [@haya21_8](https://www.instagram.com/haya21_8/)<br>
-💼 **LinkedIn:** [haya218](https://www.linkedin.com/in/haya218/)<br>
-🖥️ **Portfolio:** [Arterect](https://www.arterect.net/portfolio/haya21_8/)<br>
-
----
-
-## 🧠 **PoAI: The Future of Decentralized Intelligence**
-
-PoAI (Proof of Artificial Intelligence) introduces an **AI-powered governance system** that enhances **transparency, efficiency, and ethical decision-making**.
-
-<br>
-
-By integrating AI into blockchain, **PoAI enables self-optimizing, unbiased governance** for decentralized ecosystems.
-
-<br>
-
-🔥 **Key PoAI Innovations:**
-
-<br>
-
-- 🤖 **AI-driven decision-making & governance for decentralized systems**<br>
-- 🛡️ **Quantum-resistant security & Zero-Knowledge Proofs (ZKP)**<br>
-- 🚀 **Real-time AI optimizations for economic models & smart contracts**<br>
-- 🎮 **Game-changing AI-generated dynamic NPCs & quest systems**<br>
-- 🔗 **Cross-chain interoperability & blockchain automation**<br>
-- 🌍 **Decentralized AI-driven social infrastructure for Web4.0**<br>
-
----
-
-## 🛠️ **Tech Stack**
-
 <div align="center">
 
-### 🤖 **Artificial Intelligence / Machine Learning**
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GPT-2](https://img.shields.io/badge/GPT--2-NLP-blue?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-00A86B?style=for-the-badge)
+<h1><b>HAYATE ESAKI</b></h1>
+<h3>AI Engineer & Visionary | Building the Future of Decentralized Intelligence</h3>
 
-### ⚙ **Blockchain & Cryptography**
+<br>
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Zero Knowledge Proofs](https://img.shields.io/badge/Zero--Knowledge--Proofs-ZKP-blue?style=for-the-badge)
-![Quantum-Resistant Cryptography](https://img.shields.io/badge/Quantum--Resistant--Crypto-🛡️-red?style=for-the-badge)
+I'm an AI engineer and researcher passionate about the intersection of **AI, space exploration, quantum computing, and blockchain**. My work focuses on developing next-generation technologies that will shape the AGI era.
 
-### ☁ **Cloud & DevOps**
+<br>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### 🎨 **Full-Stack Development**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-</div>
-
----
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=haya21-8&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haya21-8&layout=compact&theme=tokyonight" alt="Top Languages" width="42%">
-</div>
-
----
-
-## 🎯 **Featured Work**
-
-🌐 **PoAI & Arkxion:** [Whitepaper](https://zenodo.org/records/14758384) | [Website](https://arkxion.org)<br>
-📜 **Academic Research:** [Zenodo](https://zenodo.org/records/14758384) | [ORCID](https://orcid.org/0009-0007-0852-5505)<br>
-🎨 **Portfolio & Projects:** [Arterect](https://www.arterect.net/portfolio/haya21_8/)<br>
-💻 **Development Repo:** [GitHub (Arkxion)](https://github.com/arkxion)<br>
-
----
-
-## 📫 **Let’s Connect!**
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/haya218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p>
+    <a href="https://www.linkedin.com/in/haya218/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/haya21-8"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://zenodo.org/records/14758384"><img src="https://img.shields.io/badge/Research-Zenodo-2C67F2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Zenodo Research"></a>
-    <a href="https://orcid.org/0009-0007-0852-5505"><img src="https://img.shields.io/badge/ORCID-0009--0007--0852--5505-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+    <a href="https://zenn.dev/haya21_8"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"></a>
+    <a href="https://orcid.org/0009-0007-0852-5505"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
     <a href="https://www.instagram.com/haya21_8/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+</td>
+<td width="30%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=haya21-8&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=c792ea&icon_color=c792ea" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haya21-8&layout=compact&theme=tokyonight&hide_border=true&title_color=c792ea" alt="Top Languages">
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://arkxion.org">
+    <img src="assets/profile-banner-arterect.png" alt="HAYATE ESAKI Profile Banner" width="100%">
+  </a>
+</div>
+
+## 📝 Latest Articles
+
+<!-- ZENN-POSTS:START -->
+<!-- ZENN-POSTS:END -->
+
+## 🚀 My Vision & Projects
+
+My work is centered around two core pillars: **PoAI**, a next-generation consensus mechanism, and **Enify**, a multi-agent AI platform.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/arkxion" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkxion&repo=PoAI&theme=tokyonight&hide_border=true&title_color=c792ea&icon_color=c792ea" alt="Arkxion Project">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/haya21-8/enify" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=haya21-8&repo=enify&theme=tokyonight&hide_border=true&title_color=c792ea&icon_color=c792ea" alt="Enify">
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🏢 My Organization
+
+I am a core member of the **[Arterect Community](https://www.arterect.net/)**, a research collective dedicated to pioneering the future of AGI and decentralized systems. Together, we are building the future of intelligence.
+
+## 🛠️ Tech Stack
+
+<h4>Languages</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,rust,go,cpp,swift,kotlin" />
+  </a>
+</p>
+<h4>AI/ML & Data Science</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  </a>
+</p>
+<h4>Web & Backend</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react,nextjs" />
+  </a>
+</p>
+<h4>Infrastructure & DevOps</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
+  </a>
+</p>
+<h4>Blockchain</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+  </a>
+</p>
+
+## 📊 My GitHub Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=haya21-8&label=PROFILE+VIEWS&color=c792ea&style=flat-square" alt="Profile views"/>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haya21-8&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/haya21-8/haya21-8/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid">
+</p>
+
+---
+
+<p align="center">
+  <i>I'm always open to collaborating on innovative projects and discussing new ideas.</i>
 </p>
