@@ -30,7 +30,7 @@ I'm an AI engineer and researcher passionate about the intersection of **AI, spa
 
   <div style="padding: 25px; border-radius: 12px; margin: 15px; border: 1px solid rgba(148, 163, 184, 0.3); width: 90%; max-width: 900px;">
     <h4 style="color: inherit; margin: 0 0 20px 0; font-size: 14px; font-weight: 500; letter-spacing: 0.5px;">MOST USED LANGUAGES</h4>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haya21-8&layout=compact&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=E2E8F0&title_color=94A3B8" alt="Top Languages" style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haya21-8&layout=compact&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=E2E8F0&title_color=94A3B8" alt="Top Languages" style="max-width: 100%;">
   </div>
 
 </div>
@@ -77,13 +77,10 @@ I'm an AI engineer and researcher passionate about the intersection of **AI, spa
 <div align="center" style="padding: 20px;">
   <div style="padding: 25px; border-radius: 12px; margin: 15px; border: 1px solid rgba(148, 163, 184, 0.3); width: 90%; max-width: 900px;">
     <h4 style="color: inherit; margin: 0 0 20px 0; font-size: 14px; font-weight: 500; letter-spacing: 0.5px;">LATEST POSTS</h4>
-    <!-- ZENN-POSTS:START -->
-    - [AIエージェント開発Night 完全レポート｜日本のAIエージェント開発最前線](https://zenn.dev/growthlink1112/articles/0fdc67f47f3db8)
-    - [WSLで動かすClaude Codeの世界](https://zenn.dev/arterect/articles/31b08fba9ff818)
-    - [AI EXPO 2025 春 に参加しました！](https://zenn.dev/haya21_8/articles/8a84117757e187)
-    - [ChatGPT-4.5で試してみた！MCPとA2A、そしてAIエージェントの未来](https://zenn.dev/growthlink1112/articles/99469af60be1ed)
-    - [DifyでノーコードAIアプリ開発をはじめよう！](https://zenn.dev/haya21_8/articles/482ebbfe54c647)
-    <!-- ZENN-POSTS:END -->
+    
+<!-- ZENN-POSTS:START -->
+<!-- ZENN-POSTS:END -->
+    
   </div>
 </div>
 
@@ -97,25 +94,6 @@ I'm an AI engineer and researcher passionate about the intersection of **AI, spa
       My work is centered around two core pillars: <strong style="color: #60a5fa;">PoAI</strong>, a next-generation consensus mechanism, and <strong style="color: #22c55e;">Enify</strong>, a multi-agent AI platform.
     </p>
   </div>
-
-  <div style="padding: 25px; border-radius: 12px; margin: 15px; border: 1px solid rgba(148, 163, 184, 0.3); width: 90%; max-width: 900px;">
-    <h4 style="color: inherit; margin: 0 0 20px 0; font-size: 14px; font-weight: 500; letter-spacing: 0.5px;">ARKXION ORGANIZATION</h4>
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-      <a href="https://github.com/arkxion" style="text-decoration: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=arkxion&repo=PoAI&theme=dark&hide_border=true&title_color=94a3b8&icon_color=60a5fa&text_color=e2e8f0&bg_color=00000000" alt="PoAI Project" style="border-radius: 12px; max-width: 100%;">
-      </a>
-    </div>
-  </div>
-
-  <div style="padding: 25px; border-radius: 12px; margin: 15px; border: 1px solid rgba(148, 163, 184, 0.3); width: 90%; max-width: 900px;">
-    <h4 style="color: inherit; margin: 0 0 20px 0; font-size: 14px; font-weight: 500; letter-spacing: 0.5px;">PERSONAL PROJECTS</h4>
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-      <a href="https://github.com/haya21-8/enify" style="text-decoration: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=haya21-8&repo=enify&theme=dark&hide_border=true&title_color=94a3b8&icon_color=22c55e&text_color=e2e8f0&bg_color=00000000" alt="Enify Project" style="border-radius: 12px; max-width: 100%;">
-      </a>
-    </div>
-  </div>
-
 </div>
 
 ## My Organization
@@ -195,7 +173,7 @@ I'm an AI engineer and researcher passionate about the intersection of **AI, spa
 
   <div style="padding: 25px; border-radius: 12px; margin: 15px; border: 1px solid rgba(148, 163, 184, 0.3); width: 90%; max-width: 900px;">
     <h4 style="color: inherit; margin: 0 0 20px 0; font-size: 14px; font-weight: 500; letter-spacing: 0.5px;">ACTIVITY OVERVIEW</h4>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=haya21-8&theme=github-dark&hide_border=true&bg_color=00000000&color=94a3b8&line=60a5fa&point=e2e8f0&area=true&hide_title=true" alt="GitHub Activity Graph" style="max-width: 100%; border-radius: 8px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=haya21-8&theme=github-dark&hide_border=true&bg_color=00000000&color=94a3b8&line=60a5fa&point=e2e8f0&area=true&hide_title=true" alt="GitHub Activity Graph" style="max-width: 100%;">
   </div>
 
 </div>
