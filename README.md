@@ -79,11 +79,11 @@ I'm an AI engineer and researcher passionate about the intersection of **AI, spa
     <h4 style="color: inherit; margin: 0 0 20px 0; font-size: 14px; font-weight: 500; letter-spacing: 0.5px;">LATEST POSTS</h4>
     
 <!-- ZENN-POSTS:START -->
+- [企業価値はMCPサーバー数で決まる時代が到来？125名以上が集まったMCP実践テクニック祭りレポート#CA.ai](https://zenn.dev/growthlink1112/articles/67edb0251dced6)
 - [AIエージェント開発Night 完全レポート｜日本のAIエージェント開発最前線](https://zenn.dev/growthlink1112/articles/0fdc67f47f3db8)
 - [WSLで動かすClaude Codeの世界](https://zenn.dev/arterect/articles/31b08fba9ff818)
 - [AI EXPO 2025 春 に参加しました！](https://zenn.dev/haya21_8/articles/8a84117757e187)
 - [ChatGPT-4.5で試してみた！MCPとA2A、そしてAIエージェントの未来](https://zenn.dev/growthlink1112/articles/99469af60be1ed)
-- [DifyでノーコードAIアプリ開発をはじめよう！](https://zenn.dev/haya21_8/articles/482ebbfe54c647)
 <!-- ZENN-POSTS:END -->
     
   </div>
